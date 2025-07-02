@@ -5,6 +5,13 @@ This project is built with Gradio, LangChain, and Gemini for answering questions
 1. **gradio_qa.py** – Paste or type any text and ask questions based on it.
 2. **gradio_pdf.py** – Upload a PDF and ask questions about its content.
 
+## Clone the Repo
+
+```bash
+git clone https://github.com/AfreenInnovates/gemini-QA-tool.git
+cd gemini-QA-tool
+```
+
 ## Installation
 
 ```bash
