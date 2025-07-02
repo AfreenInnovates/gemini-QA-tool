@@ -27,6 +27,8 @@ pip install gradio langchain langchain-google-genai python-dotenv PyMuPDF
 GEMINI_API_KEY=put_your_gemini_api_key_here
 ```
 
+<hr>
+
 1. Run the text-based QA tool:
 ```bash
 python gradio_qa.py
