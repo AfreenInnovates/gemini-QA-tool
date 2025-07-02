@@ -35,6 +35,7 @@ python gradio_qa.py
 - Ask any question in the next box.
 - Output is received in the 2nd column output box.
 
+<hr>
 
 2. Run the pdf-based QA tool:
 ```bash
